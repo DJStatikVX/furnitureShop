@@ -1,0 +1,34 @@
+[09:59:57 30/11/2020] 000 VentanaPrincipal - Solicitud de gestion de presupuestos
+[09:59:58 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos - Solicitud de crear presupuesto
+[10:00:40 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.CreacionPresupuesto - Confirmacion de creacion del presupuesto b0d31416-e7c8-4052-a085-e0691f77f92c
+[10:00:45 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.AsignarClienteAPresupuesto - Asignacion de presupuesto b0d31416-e7c8-4052-a085-e0691f77f92c al cliente 123456
+[10:00:46 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos - Solicitud de creacion de venta
+[10:00:51 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.ProductosATransportar - Mueve producto 002 a transporte
+[10:01:02 30/11/2020] 000 VentanaPrincipal.AsignarTransporte.DialogoFechaHoraEntrega - Confirmacion de asignacion del transportista Alex a la venta 5c792075-c1cd-434e-8944-47c5196a35fd
+[10:02:05 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.ProductosATransportar - Confirmacion venta5c792075-c1cd-434e-8944-47c5196a35fdcon transporte de productos
+[10:02:09 30/11/2020] 000 VentanaPrincipal - Solicitud de consulta del historial de ventas
+[10:02:10 30/11/2020] 000 VentanaPrincipal.HistorialVentas - Seleccionada venta 5c792075-c1cd-434e-8944-47c5196a35fd del historial de ventas
+[10:02:16 30/11/2020] 000 VentanaPrincipal - Solicitud de consulta del historial de ventas
+[10:02:17 30/11/2020] 000 VentanaPrincipal.HistorialVentas - Seleccionada venta 5c792075-c1cd-434e-8944-47c5196a35fd del historial de ventas
+[10:02:17 30/11/2020] 000 VentanaPrincipal.HistorialVentas - Seleccionada venta 5c792075-c1cd-434e-8944-47c5196a35fd del historial de ventas
+[10:02:33 30/11/2020] 000 VentanaPrincipal.HistorialVentas - Consulta información de venta 5c792075-c1cd-434e-8944-47c5196a35fd del historial de ventas
+[10:03:01 30/11/2020] 000 VentanaPrincipal - Selicitud de gestion de productos
+[10:03:02 30/11/2020] 000 VentanaPrincipal.GestionDeProductos - Solicitud de cambio de precio de productos
+[10:03:16 30/11/2020] 000 VentanaPrincipal.GestionDeProductos.CambiarPrecioProducto - Cambio de precio del producto 005 a 5.0
+[10:03:24 30/11/2020] 000 VentanaPrincipal.GestionDeProductos - Gestionar almacen
+[10:03:28 30/11/2020] 000 VentanaPrincipal.GestionDeProductos - Gestionar almacen
+[10:03:30 30/11/2020] 000 VentanaPrincipal.GestionDeProductos - Solicitud de cambio de precio de productos
+[10:03:56 30/11/2020] 000 VentanaPrincipal.GestionDeProductos.CambiarPrecioProducto - Cambio de precio del producto 005 a 399.99
+[10:04:25 30/11/2020] 000 VentanaPrincipal.GestionDeProductos - Gestionar almacen
+[10:04:39 30/11/2020] 000 VentanaPrincipal - Solicitud de consulta de estadísticas
+[10:04:40 30/11/2020] 000 VentanaPrincipal.Estadisticas - Consulta de graficos de ventas
+[10:04:59 30/11/2020] 000 VentanaPrincipal.Estadisticas.Graficos - Solicitud de visualizacion de graficos
+[10:05:02 30/11/2020] 000 VentanaPrincipal - Añadir trabajador
+[10:05:08 30/11/2020] 000 VentanaPrincipal - Solicitud de consulta del historial de ventas
+[10:05:10 30/11/2020] 000 VentanaPrincipal - Selicitud de gestion de productos
+[10:05:12 30/11/2020] 000 VentanaPrincipal - Selicitud de gestion de productos
+[10:05:14 30/11/2020] 000 VentanaPrincipal - Selicitud de gestion de productos
+[10:05:17 30/11/2020] 000 VentanaPrincipal - Solicitud de gestion de presupuestos
+[10:05:48 30/11/2020] 000 VentanaPrincipal - Añadir trabajador
+[10:07:12 30/11/2020] 000 VentanaPrincipal.HistorialVentas - Creacion de trabajador ca3b4dfe-d525-439e-8882-bce10c9dcd17
+[10:07:30 30/11/2020] 000 VentanaPrincipal - Cerrar sesion

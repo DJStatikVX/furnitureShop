@@ -1,0 +1,5 @@
+[10:07:35 30/11/2020] ca3b4dfe-d525-439e-8882-bce10c9dcd17 VentanaPrincipal - Solicitud de consulta del historial de ventas
+[10:08:17 30/11/2020] ca3b4dfe-d525-439e-8882-bce10c9dcd17 VentanaPrincipal - Solicitud de consulta del historial de ventas
+[10:08:19 30/11/2020] ca3b4dfe-d525-439e-8882-bce10c9dcd17 VentanaPrincipal.HistorialVentas - Seleccionada venta 027 del historial de ventas
+[10:08:20 30/11/2020] ca3b4dfe-d525-439e-8882-bce10c9dcd17 VentanaPrincipal.HistorialVentas - Seleccionada venta 5c792075-c1cd-434e-8944-47c5196a35fd del historial de ventas
+[10:08:24 30/11/2020] ca3b4dfe-d525-439e-8882-bce10c9dcd17 VentanaPrincipal - Cerrar sesion

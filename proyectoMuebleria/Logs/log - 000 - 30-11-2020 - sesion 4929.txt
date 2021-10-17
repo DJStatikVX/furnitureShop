@@ -1,0 +1,43 @@
+[10:11:41 30/11/2020] 000 VentanaPrincipal - Cerrar sesion
+[10:24:32 30/11/2020] 000 VentanaPrincipal - Solicitud de gestion de presupuestos
+[10:24:32 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos - Solicitud de crear presupuesto
+[10:24:34 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.CreacionPresupuesto - Añade producto 003 al presupuesto
+[10:24:35 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.CreacionPresupuesto - Elimina producto 003 al presupuesto
+[10:24:41 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.CreacionPresupuesto - Añade producto 002 al presupuesto
+[10:24:45 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.CreacionPresupuesto - Confirmacion de creacion del presupuesto 32f75604-1047-4592-8f76-e478861dae17
+[10:24:48 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.AsignarClienteAPresupuesto - Asignacion de presupuesto 32f75604-1047-4592-8f76-e478861dae17 al cliente 123456
+[10:24:49 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos - Solicitud de creacion de venta
+[10:24:53 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.ProductosATransportar - Mueve producto 007 a transporte
+[10:25:10 30/11/2020] 000 VentanaPrincipal.AsignarTransporte.DialogoFechaHoraEntrega - Confirmacion de asignacion del transportista Maya a la venta e7ea24c4-e8fd-4b4e-88eb-b52e22c10dfe
+[10:25:12 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.ProductosATransportar - Confirmacion ventae7ea24c4-e8fd-4b4e-88eb-b52e22c10dfecon transporte de productos
+[10:25:17 30/11/2020] 000 VentanaPrincipal - Selicitud de gestion de productos
+[10:25:23 30/11/2020] 000 VentanaPrincipal.GestionDeProductos - Solicitud de realizar pedido al proveedor
+[10:25:28 30/11/2020] 000 VentanaPrincipal.GestionDeProductos.RealizarPedidoAlProveedor - Añadido producto 007 al pedido
+[10:25:28 30/11/2020] 000 VentanaPrincipal.RealizarPedidoAProveedor - Añadidas 51 unidades del producto 007 al pedido
+[10:25:29 30/11/2020] 000 VentanaPrincipal.GestionDeProductos.RealizarPedidoAlProveedor - Realizada creacion del pedido
+[10:26:54 30/11/2020] 000 VentanaPrincipal.GestionDeProductos.ConfirmarPedido - Confirmado y realizado pedido 2e10b9c5-d9d8-4f16-bb3e-e8389a4e65a8 al proveedor
+[10:27:13 30/11/2020] 000 VentanaPrincipal - Solicitud de consulta de estadísticas
+[10:28:03 30/11/2020] 000 VentanaPrincipal - Solicitud de gestion de presupuestos
+[10:28:05 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos - Solicitud de crear presupuesto
+[10:28:36 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.CreacionPresupuesto - Confirmacion de creacion del presupuesto 761066e0-042a-4e40-bef6-be67955a54ee
+[10:28:41 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.AsignarClienteAPresupuesto - Asignacion de presupuesto 761066e0-042a-4e40-bef6-be67955a54ee al cliente 123456
+[10:28:47 30/11/2020] 000 VentanaPrincipal - Selicitud de gestion de productos
+[10:28:48 30/11/2020] 000 VentanaPrincipal.GestionDeProductos - Solicitud de cambio de precio de productos
+[10:28:59 30/11/2020] 000 VentanaPrincipal.GestionDeProductos.CambiarPrecioProducto - Cambio de precio del producto 002 a 300.0
+[10:29:10 30/11/2020] 000 VentanaPrincipal.GestionDeProductos.CambiarPrecioProducto - Cambio de precio del producto 007 a 25.0
+[10:29:21 30/11/2020] 000 VentanaPrincipal - Solicitud de gestion de presupuestos
+[10:29:22 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos - Solicitud de creacion de venta
+[10:32:59 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.ProductosATransportar - Mueve producto 007 a transporte
+[10:33:06 30/11/2020] 000 VentanaPrincipal.AsignarTransporte.DialogoFechaHoraEntrega - Confirmacion de asignacion del transportista Alex a la venta f83f9591-c873-44e3-8651-f59a581eee0f
+[10:33:07 30/11/2020] 000 VentanaPrincipal.GestionPresupuestos.ProductosATransportar - Confirmacion ventaf83f9591-c873-44e3-8651-f59a581eee0fcon transporte de productos
+[10:33:09 30/11/2020] 000 VentanaPrincipal - Solicitud de consulta del historial de ventas
+[10:33:11 30/11/2020] 000 VentanaPrincipal.HistorialVentas - Seleccionada venta f83f9591-c873-44e3-8651-f59a581eee0f del historial de ventas
+[10:38:11 30/11/2020] 000 VentanaPrincipal - Solicitud de consulta de estadísticas
+[10:38:13 30/11/2020] 000 VentanaPrincipal.Estadisticas - Consulta de graficos de ventas
+[10:38:17 30/11/2020] 000 VentanaPrincipal.Estadisticas - Consulta de estadisticas de los vendedores
+[10:38:27 30/11/2020] 000 VentanaPrincipal.Estadisticas - Consulta de graficos de ventas
+[10:38:32 30/11/2020] 000 VentanaPrincipal.Estadisticas.Graficos - Solicitud de visualizacion de graficos
+[10:38:35 30/11/2020] 000 VentanaPrincipal.Estadisticas.Graficos - Solicitud de visualizacion de graficos
+[10:38:46 30/11/2020] 000 VentanaPrincipal.Estadisticas.Graficos - Solicitud de visualizacion de graficos
+[10:38:48 30/11/2020] 000 VentanaPrincipal.Estadisticas.Graficos - Solicitud de visualizacion de graficos
+[10:38:55 30/11/2020] 000 VentanaPrincipal - Cerrar sesion
